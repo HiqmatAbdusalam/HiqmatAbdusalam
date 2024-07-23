@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Hiqmat Abdusalam-Olajire
 - 👀 I’m a data analyst proficient in Excel, SQL and Power BI SQL
 - 🌱 I’m upskilling my data analytics skill
 - 💞️ I’m looking for Data Analytics roles - Internship, Remote and Permanent roles
